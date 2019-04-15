@@ -1,0 +1,6 @@
+{
+    "login": "user",
+    "senha": "123456",
+    "loginInvalido": "usuario",
+    "senhaInvalida": "senha"
+}
